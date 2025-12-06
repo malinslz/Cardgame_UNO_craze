@@ -8,38 +8,43 @@ This makes the gaming experience more dynamic, exciting and interactive.
 New Features
 This version of UNO includes two new universal cards and an interactive electronic box that adds extra variety to the game.
 
-1. The New Cards
+The New Cards:
 Both cards are universal, meaning they can be played on any color.
 
-Switch (Card Swap)
+- Switch (Card Swap)
 When the B1 button on the box is pressed, the display shows arrows indicating the direction (left or right) in which all players must pass their entire hand.
 
-Touch It! (Reaction Card)
+- Touch It! (Reaction Card)
 When one of the four sensors on the box is pressed, the box detects which player reacted fastest. The fastest player is shown on the display and may discard one card as a reward.
 
 Note: These special cards only take effect when a player places them on the discard pile.
 
-Starting the Game
+Starting the Game:
 The starting player turns on the box using the On-button. The display shows the starting color for the game. 
 
-If You Don’t Have the Required Color
-If it's your turn and you don’t have a card of the required color, press the red buzzer. The box will display:
+If You Don’t Have the Required Color:
+If it's your turn and you don’t have a card of the required color, press the red buzzer. 
 
-How many cards you must draw (1–4), and Which color will be played next.
+The box will display:
+- How many cards you must draw (1–4), and Which color will be played next.
+- If you also don’t have the newly displayed color, draw from the normal draw pile as usual and end your turn.
 
-If you also don’t have the newly displayed color, draw from the normal draw pile as usual and end your turn.
 
-
-The UNO Craze Box – Interactive Elements
+The UNO Craze Box – Interactive Elements:
 Buzzer: Activates Screen 1.
+
 Screen 1: Shows how many cards to draw (1–4) and the next color (red, blue, green, yellow).
+
 Button B1: Activates Screen 2.
+
 Screen 2: Shows the direction for passing hands (left or right) — used for the Switch card.
+
 On/Off Button: Turns the box on or off.
+
 4 Distance Sensors: Detect who reacts the fastest — used for the Touch It! reaction card.
 
 
-Other Rules
+Other Rules:
 All regular UNO rules remain unchanged. Cards drawn due to +2 or +4 effects are still taken from the normal draw pile, not from the box.
 
 
