@@ -5,7 +5,7 @@ This makes the gaming experience more dynamic, exciting and interactive.
 
 ## Concept
 ### How to play
-New Features
+#### New Features
 This version of UNO includes two new universal cards and an interactive electronic box that adds extra variety to the game.
 
 The New Cards:
