@@ -66,6 +66,11 @@ To build this project you will need:
 
 <img width="1241" height="620" alt="image" src="https://github.com/user-attachments/assets/1a1129a2-0a9c-4656-93c8-2e010f2afbee" />
 
+#### behind the scenes
+<img width="328" height="422" alt="image" src="https://github.com/user-attachments/assets/9bd8b512-22a1-4c01-aa61-95b93547e1ea" />
+<img width="328" height="422" alt="image" src="https://github.com/user-attachments/assets/8e4f0cc8-17e0-4c5a-91e6-773930ab240b" />
+
+<img width="328" height="190" alt="image" src="https://github.com/user-attachments/assets/d56a1dc4-2722-4bbf-b72b-03fca7acebc3" />
 
   
 ### Software
@@ -82,6 +87,10 @@ To build this project you will need:
 see the Document: "UNO-Craze_Spielregeln and How to build" ;)
 
 for the UNO-Craze Cube see: "Cube.stl"
+
+###
+<img width="328" height="422" alt="image" src="https://github.com/user-attachments/assets/d5744f1e-36f6-4638-8515-7678454a3b21" />
+
 
 ### Uploading the code
 * Copy the content of your `src` from your computer to your board
