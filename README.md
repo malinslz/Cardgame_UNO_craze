@@ -63,6 +63,10 @@ To build this project you will need:
 * 1x Modulino Buttons
 * 1x Button Buzzer
 * A USB-C power bank
+
+<img width="1241" height="620" alt="image" src="https://github.com/user-attachments/assets/1a1129a2-0a9c-4656-93c8-2e010f2afbee" />
+
+
   
 ### Software
 * [MicroPython](https://micropython.org/)
