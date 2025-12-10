@@ -84,7 +84,7 @@ To build this project you will need:
 
 ## How to build
 ### Wiring
-see the Document: "UNO-Craze_Spielregeln and How to build" ;)
+see the Document: "UNO-Craze game instructions" ;)
 
 for the UNO-Craze Cube see: "Cube.stl"
 
