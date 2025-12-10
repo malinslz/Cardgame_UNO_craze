@@ -93,7 +93,7 @@ for the UNO-Craze Cube see: "Cube.stl"
 
 
 ### Uploading the code
-* See UNO-Craze Program to upload the code 
+* see src File to upload the code
   
 ### Feedback and questions
 If you are interested in this project and need to ask questions get in touch with us over our emails:
