@@ -59,7 +59,7 @@ To build this project you will need:
 * A Grove RGB LCD Display 16x2
 * A Grove LCD Dislpay 16x2
 * 4x Distance Sensors
-* 1x Modulino Buzzer
+* (1x Modulino Buzzer)
 * 1x Modulino Buttons
 * 1x Button Buzzer
 * A USB-C power bank
@@ -93,8 +93,7 @@ for the UNO-Craze Cube see: "Cube.stl"
 
 
 ### Uploading the code
-* Copy the content of your `src` from your computer to your board
-* Install the libraries listed above
+* See UNO-Craze Program to upload the code 
   
 ### Feedback and questions
 If you are interested in this project and need to ask questions get in touch with us over our emails:
