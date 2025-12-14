@@ -72,7 +72,10 @@ To build this project you will need:
 
 <img width="328" height="190" alt="image" src="https://github.com/user-attachments/assets/d56a1dc4-2722-4bbf-b72b-03fca7acebc3" />
 
-  
+#### Our Video ;)
+[Video] (https://www.dropbox.com/scl/fi/tkhfzs8ecpa0613365c2e/Uno-Craze-Video-V3.mp4?rlkey=zg2m2kipakrxuo56ou3z0j7t5&e=1&st=hh8nmjji&dl=0)
+
+
 ### Software
 * [MicroPython](https://micropython.org/)
 * [Arduino Lab for MicroPython](https://labs.arduino.cc/en/labs/micropython)
